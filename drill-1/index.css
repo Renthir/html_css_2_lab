@@ -1,0 +1,44 @@
+html,
+body {
+  margin: 0;
+}
+
+header {
+    background-color: gray;
+    height: 150px;
+}
+
+body {
+    background-color: rgb(226, 226, 226);
+}
+
+.content-body {
+    height: 100%;
+    width: 100vw;
+}
+
+.lower {
+    width: 60vw;
+}
+
+.content {
+    background-color: white;
+    position: absolute;
+    top: 150px;
+    bottom: 75px;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+footer {
+    background-color: rgb(43, 43, 43);
+    height: 75px;
+    position: absolute;
+    bottom: 0;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+}

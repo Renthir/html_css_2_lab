@@ -1,5 +1,4 @@
-html,
-body {
+* {
   margin: 0;
 }
 
@@ -10,6 +9,7 @@ header {
 
 body {
     background-color: rgb(226, 226, 226);
+    text-align: center;
 }
 
 .content-body {

@@ -3,7 +3,7 @@
 }
 
 header {
-    background-color: gray;
+    background-color: rgb(206, 206, 206);
     height: 80px;
     position: relative;
 }
@@ -19,7 +19,7 @@ header {
 }
 
 section {
-    padding: 25px;
+    padding: 40px;
 }
 
 #blue {
@@ -39,6 +39,13 @@ section {
     background-color: yellow;
 }
 
-footer {
-    
+#help-button {
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
 }

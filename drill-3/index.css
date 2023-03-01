@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+
+header {
+    background-color: gray;
+    height: 80px;
+    position: relative;
+}
+
+#square{
+    display: block;
+    background-color: rgb(78, 120, 212);
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+section {
+    padding: 25px;
+}
+
+#blue {
+    height: 200px;
+    background-color: rgb(78, 120, 212);
+}
+#teal {
+    height: 200px;
+    background-color: turquoise;
+}
+#yellow-green {
+    height: 200px;
+    background-color: rgb(197, 216, 87);
+}
+#yellow {
+    height: 200px;
+    background-color: yellow;
+}
+
+footer {
+    
+}
